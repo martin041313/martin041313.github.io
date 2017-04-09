@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-![refgdfgf]({{site.baseurl}}//%E5%9B%BE%E7%89%872.png)
+
 1. Numbered
 2. List
 
@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
+![refgdfgf]({{site.baseurl}}//%E5%9B%BE%E7%89%872.png)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martin041313/martin041313.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact

@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![refgdfgf]({{site.baseurl}}//%E5%9B%BE%E7%89%872.png)
 1. Numbered
 2. List
 
